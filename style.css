@@ -1,0 +1,48 @@
+body {
+    background-color: lemonchiffon;
+}
+
+.atiku {
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5%;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#img-div{
+    width: 30%;
+    margin-left: 33%;
+
+}
+
+.caption {
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif; 
+    text-align: center;
+}
+
+#tribute-link {
+    background-color: grey; 
+    border-radius: 3cm; 
+    font-style: oblique;
+    padding: 1%;
+    color: white;
+    text-decoration-line: none;
+}
+
+#tribute-info {
+    text-align: center; 
+    font-style: italic;
+}
+
+#title {
+    text-align: center;
+}
+
+.list {
+    width: 60%;
+    margin-left:25%;
+    list-style:
+}
